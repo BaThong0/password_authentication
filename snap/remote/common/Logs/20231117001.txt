@@ -1,0 +1,45 @@
+[17:21:38] [Logger] Open
+[17:21:38] [SkinManager] Loading from "/snap/remote/current/bin/skin"
+[17:21:38] [SkinManager] 1 glyph pages loaded:
+[17:21:38] [SkinManager] Page "skin" loaded 161 images from /snap/remote/current/bin/skin
+[17:21:38] [GlyphManager] Loading from "/snap/remote/current/resources/glyphs"
+[17:21:38] [GlyphManager] 2 glyph pages loaded:
+[17:21:38] [GlyphManager] Page "device" loaded 87 images from /snap/remote/current/resources/glyphs/device
+[17:21:38] [GlyphManager] Page "display" loaded 55 images from /snap/remote/current/resources/glyphs/display
+[17:21:38] [App] Platform: Linux
+[17:21:38] [App] Number of logical CPU cores: 3
+[17:21:38] [App] Display #0 (800x600) offers mode #0 (2560x1600).
+[17:21:38] [App] Display #0 (800x600) offers mode #1 (1920x1440).
+[17:21:38] [App] Display #0 (800x600) offers mode #2 (1920x1200).
+[17:21:38] [App] Display #0 (800x600) offers mode #3 (1856x1392).
+[17:21:38] [App] Display #0 (800x600) offers mode #4 (1792x1344).
+[17:21:38] [App] Display #0 (800x600) offers mode #5 (1680x1050).
+[17:21:38] [App] Display #0 (800x600) offers mode #6 (1600x1200).
+[17:21:38] [App] Display #0 (800x600) offers mode #7 (1440x900).
+[17:21:38] [App] Display #0 (800x600) offers mode #8 (1400x1050).
+[17:21:38] [App] Display #0 (800x600) offers mode #9 (1360x768).
+[17:21:38] [App] Display #0 (800x600) offers mode #10 (1280x1024).
+[17:21:38] [App] Display #0 (800x600) offers mode #11 (1280x960).
+[17:21:38] [App] Display #0 (800x600) offers mode #12 (1280x800).
+[17:21:38] [App] Display #0 (800x600) offers mode #13 (1280x768).
+[17:21:38] [App] Display #0 (800x600) offers mode #14 (1152x864).
+[17:21:38] [App] Display #0 (800x600) offers mode #15 (1024x768).
+[17:21:38] [App] Display #0 (800x600) offers mode #16 (800x600).
+[17:21:38] [App] Display #0 (800x600) offers mode #17 (640x480).
+[17:21:38] [App] Binary path: /snap/remote/current/bin
+[17:21:38] [App] Application Data path: /home/ton/snap/remote/common
+[17:21:38] [App] Common Data path: /home/ton/snap/remote/common
+[17:21:38] [App] Resources Specific path: /snap/remote/current/bin
+[17:21:38] [App] Resources Shared path: /snap/remote/current/resources
+[17:21:38] [App] 1 IP address found:
+[17:21:38] [App] - 192.168.1.128
+[17:21:38] [LanguageManager] Loading from "/home/ton/snap/remote/common"
+[17:21:38] [LanguageManager] 0 langauges loaded
+[17:21:38] [AudioOutManager] Loading audios from "/snap/remote/current/bin/audio"
+[17:21:38] [AudioOutManager] 0 files loaded
+[17:21:38] [DeviceManager] Broadcasting to:
+[17:21:38] [DeviceManager] - 255.255.255.255
+[17:21:38] [DeviceManager] - 192.168.1.255
+[17:21:38] [App] Failed to create a hardware renderer: 'Failed to access the SoundFont /usr/share/sounds/sf2/FluidR3_GM.sf2' falling back to software renderer...
+[17:21:44] [App] debug counter = 0
+[17:21:44] [Logger] Close

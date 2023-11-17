@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "io.snapcraft.terminalpp-tf5GtpX0rhO76q4TGlIbKxwIbEc6PzRq",
+        "date_created": 1600842391.0,
+        "description": "i want to open the terminalpp using shortcut",
+        "distro": "Ubuntu",
+        "karma_down": 5,
+        "karma_up": 0,
+        "locale": "en_IN",
+        "rating": 40,
+        "reported": 0,
+        "review_id": 274678,
+        "score": 0,
+        "summary": "shortcut",
+        "user_display": "Santhosh Bhaskar",
+        "user_hash": "8b484a7df8a3aadf318443d69fb38a7135ff5c0c",
+        "user_skey": "217188386f9f4906dc7f2e5c1689c1652c629a4c",
+        "version": "0.6.0"
+    },
+    {
+        "app_id": "io.snapcraft.terminalpp-tf5GtpX0rhO76q4TGlIbKxwIbEc6PzRq",
+        "date_created": 1625389914.0,
+        "description": "c++ is very bad",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "en_GB.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 395400,
+        "score": 0,
+        "summary": "c++ is very bad",
+        "user_display": "Radin mirmohamadi",
+        "user_hash": "23bbbebfed14aa264c9bd5259c250d4e550758f1",
+        "user_skey": "217188386f9f4906dc7f2e5c1689c1652c629a4c",
+        "version": "0.8.4"
+    }
+]
